@@ -8,6 +8,8 @@ Projects consists of a single-page application (SAP) which lets users to enter t
 ###### This App was Created for Learning Purposes
 Feel free to use it to help you get a better understanding of PySimpleGUI/openpyxl/pandas/Python03 
 and organise your financial records effectively.
+##### Main Purpose of the project
+This project was developed with the purpose of assisting accounts to keep track of its financial transactions and to prepare financial reports effeciently
 ##### ProjectFiles
 The directory contains G-Ledger excel document, and data_entry.py
 ##### installations
